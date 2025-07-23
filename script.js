@@ -286,3 +286,15 @@ function pick(guess) {
     }
   }
 }
+const playlistId = '5Onk9rU2e2uoIPTLwNI5kj';
+
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/5Onk9rU2e2uoIPTLwNI5kj?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
